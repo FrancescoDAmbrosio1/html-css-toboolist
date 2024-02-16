@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #F6F8F9;
+}
+
+/* HEADER */
+.page-header{
+    background-color: white;
+    padding: 8px;
+}
+
+.logo{
+    height: 65px;
+    margin-left: 10px;
+}
