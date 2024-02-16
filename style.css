@@ -18,3 +18,19 @@ body{
     height: 65px;
     margin-left: 10px;
 }
+
+/* MAIN */
+.content{
+    padding: 45px;
+}
+.container{
+max-width: 1600px;
+margin: 0 auto;
+}
+
+.card{
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    /* border: solid red; */
+}
