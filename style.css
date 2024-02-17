@@ -36,12 +36,24 @@ margin: 0 auto;
     border-radius: 5px;
 }
 
+.button{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button-unclicked{
+    background-color: white;
+}
+
+.button-clicked{
+    background-color: #15AAF5;
+}
+
 .card-header{
     border-bottom: solid lightgray;
     border-width: 1px;
-    padding: 10px;
+    padding: 10px 45px;
 }
-
 .card-main{
     padding: 45px 45px 0 45px;
 }
@@ -101,3 +113,4 @@ div span{
 .sales{
     background-color: #A3D116;
 }
+
