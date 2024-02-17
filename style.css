@@ -43,13 +43,13 @@ margin: 0 auto;
 }
 
 .card-main{
-    padding: 45px;
+    padding: 45px 45px 0 45px;
 }
 div span{
     display: inline-block;
 }
 .list{
-    padding-bottom: 15px;
+    padding-bottom: 40px;
 }
 
 .list img{
@@ -68,9 +68,8 @@ div span{
     font-size: 20px;
 }
 
-.list.item{
-    line-height: 40px;
-    margin-top: 10px;
+.list-item{
+    margin-top: 15px;
 }
 .category{
     color: white;
